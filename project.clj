@@ -10,4 +10,7 @@
                  [cambium/cambium.core           "1.0.0"]
                  [cambium/cambium.codec-cheshire "1.0.0"]
                  [cambium/cambium.logback.json   "0.4.4"]]
+  :plugins      [[lein-cljfmt "0.5.6"]
+                 [lein-cloverage "1.1.2"]
+                 [jonase/eastwood "0.3.11"]]
   :repl-options {:init-ns oxy-bee1.core})
