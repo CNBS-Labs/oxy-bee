@@ -13,4 +13,4 @@
   :plugins      [[lein-cljfmt "0.5.6"]
                  [lein-cloverage "1.1.2"]
                  [jonase/eastwood "0.3.11"]]
-  :repl-options {:init-ns oxy-bee1.core})
+  :repl-options {:init-ns oxy-bee.core})
